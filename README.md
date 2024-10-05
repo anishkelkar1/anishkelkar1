@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
  -->
 
 <h1 align="center">Hi, I'm Anish! 🚀</h1>
-<h3 align="center">A Full-Stack Software Engineer using tech to make a positive social & environmental impact.</h3>
+<h3 align="center">I'm using tech to make a positive social & environmental impact.</h3>
 
 
 ```python
