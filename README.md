@@ -20,8 +20,8 @@ class AnishKelkar:
     def __init__(self):
         self.full_name = "Anish Kelkar"
         self.job_title = "Full-Stack Software Engineer"
-        self.programming_languages = ["Python", "C++", "JavaScript", "HTML", "CSS"]
-        self.interests = ["Running/Hiking/Biking", "Reading", "Spikeball"]
+        self.programming_languages = ["Python", "Java", "JavaScript", "HTML", "CSS"]
+        self.hobbies = ["3-D Printing", "Long-Distance Running", "Reading"]
 ```
 Check out my website: www.anishkelkar.com 
 <!---
