@@ -12,14 +12,14 @@ You can click the Preview link to take a look at your changes.
  -->
 
 <h1 align="center">Hi, I'm Anish! 🚀</h1>
-<h3 align="center">I'm using tech to make a positive social & environmental impact.</h3>
+<h3 align="center">I leverage tech to create positive social and environmental impact. </h3>
 
 
 ```python
 class AnishKelkar:
     def __init__(self):
         self.full_name = "Anish Kelkar"
-        self.job_title = "Full-Stack Software Engineer"
+        self.job_title = "AI Software Engineer"
         self.programming_languages = ["Python", "Java", "JavaScript", "HTML", "CSS"]
         self.hobbies = ["3-D Printing", "Long-Distance Running", "Reading"]
 ```
